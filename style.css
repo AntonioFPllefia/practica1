@@ -1,0 +1,11 @@
+body{
+    padding: 20px;
+}
+
+header nav ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    padding: 30px;
+}
